@@ -1,0 +1,4 @@
+/build/
+/models/
+*.gguf
+/benchmark_results.json
